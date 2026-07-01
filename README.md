@@ -1,16 +1,34 @@
-## Hi there 👋
+ # Mohamed Salah
 
-<!--
-**Mohamed-salah09/Mohamed-salah09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student with a strong interest in building reliable software systems and continuously improving technical skills through hands-on projects and problem solving.
 
-Here are some ideas to get you started:
+Currently focused on strengthening my foundations in software development, web technologies, and programming principles while building practical projects that demonstrate clean code, structured thinking, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+* Software Engineering
+* Backend Development
+* Web Development
+* Object-Oriented Programming
+* Data Structures and Algorithms
+* Problem Solving
+
+## Technologies
+
+* C++
+* HTML
+* CSS
+* Git
+* GitHub
+
+## Current Focus
+
+* Building real-world projects
+* Improving software design skills
+* Learning modern development tools and workflows
+* Expanding knowledge of backend technologies
+
+## Philosophy
+
+> Consistent learning, practical experience, and continuous improvement are the foundation of becoming a great software engineer.
+
