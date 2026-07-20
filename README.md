@@ -3,8 +3,7 @@
 # Hi 👋, I'm Mohamed Salah
 
 ### Software Engineering Student | Aspiring Backend Developer | Aspiring DevOps Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Backend+Solutions;Learning+Python+and+C%2B%2B;Future+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Aspiring+Backend+Developer;Aspiring+DevOps+Engineer;Always+Learning,+Always+Building)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/mohamed-salah-4422a9326">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
