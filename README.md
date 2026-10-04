@@ -24,8 +24,4 @@ Currently learning, building projects, and improving my problem-solving skills.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 
-### 🛠️ Technologies
-
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,html,css,git,linux,docker" />
-
 </div>
