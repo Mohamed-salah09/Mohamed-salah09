@@ -18,9 +18,14 @@ Currently learning, building projects, and improving my problem-solving skills.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### Languages
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=compact&theme=default" />
+### 💻 Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+
+### 🛠️ Technologies
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,html,css,git,linux,docker" />
 
 </div>
-
