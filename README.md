@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 # Hi 👋, I'm Mohamed Salah
@@ -20,8 +21,15 @@ Currently learning, building projects, and improving my problem-solving skills.
 
 <br><br>
 
-### 💻 Languages
+### 💻 Languages & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=420&custom_title=Language%20Breakdown"
+    alt="Most Used Programming Languages"
+    width="100%"
+  />
+</a>
 
 </div>
+```
