@@ -27,16 +27,14 @@ Currently learning, building projects, and improving my problem-solving skills.
 
  <br>
 
-<h3 align="center">💻 Languages & Technologies</h3>
+ <h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <a href="https://github.com/Mohamed-salah09?tab=repositories">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=420"
-      alt="Most Used Programming Languages"
-      width="420"
-    />
-  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohamed-salah09&layout=compact&theme=transparent&hide_border=true&langs_count=5&card_width=320"
+    alt="Top Languages"
+    width="320"
+  />
 </p>
 
 <p align="center">
